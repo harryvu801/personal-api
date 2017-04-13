@@ -29,6 +29,6 @@ var skillz = [
     "name": "Ionic",
     "experience": "Beginner"
   }
-]
+];
 
 module.exports = skillz;

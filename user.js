@@ -49,6 +49,6 @@ var user = {
       rating: 20
     }
   ]
-}
+};
 
 module.exports = user;

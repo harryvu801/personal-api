@@ -34,5 +34,5 @@ app.get('/secrets/:un/:pw', middleware.verifyUser, mainCtrl.getSecrets);
 
 
 app.listen(3000, function() {
-  console.log('listening');
+  console.log('listening')
 })
