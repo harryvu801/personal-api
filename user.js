@@ -1,11 +1,11 @@
 var user = {
   name: "harry",
   location: "utah",
-  occupations: ["code wizard","P.I.M.P."],
+  occupations: ["Pimp","Code Wizard"],
   hobbies: [
     {
       name: "ridin dirty",
-      type: "lifestyle"
+      type: "habit"
     },
     {
       name: "blazin",
